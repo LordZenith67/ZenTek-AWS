@@ -1,6 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-27T23:24:46.752Z",
-  "revoked": [],
+  "updatedAt": "2026-04-27T23:27:59.542Z",
+  "revoked": [
+    "0a56"
+  ],
   "paused": []
 }
